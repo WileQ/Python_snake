@@ -13,8 +13,12 @@ Clone the repository:
 git clone https://github.com/WileQ/Python_snake.git
 cd Python_snake.git
 ```
+Install dependencies:
+```bash
+pip install -r requirements.txt
+```
 Run it:
 ```bash
-python Python_snake.py
+python main.py
 ```
 
